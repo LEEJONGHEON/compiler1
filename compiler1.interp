@@ -1,0 +1,54 @@
+token literal names:
+null
+'('
+')'
+'{'
+'}'
+';'
+'int'
+'main'
+'return'
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+token symbolic names:
+null
+null
+null
+null
+null
+null
+FuncType
+Ident
+Return
+Hexadecimal_prefix
+Octal_const
+Decimal_const
+Hexadecimal_const
+Nonzero_digit
+Octal_digit
+Digit
+Hexadecimal_digit
+Line_comment
+Comment
+WS
+
+rule names:
+compUnit
+funcDef
+block
+stmt
+number
+
+
+atn:
+[3, 24715, 42794, 33075, 47597, 16764, 15335, 30598, 22884, 3, 21, 31, 4, 2, 9, 2, 4, 3, 9, 3, 4, 4, 9, 4, 4, 5, 9, 5, 4, 6, 9, 6, 3, 2, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 3, 4, 3, 4, 3, 4, 3, 5, 3, 5, 3, 5, 3, 5, 3, 6, 3, 6, 3, 6, 2, 2, 7, 2, 4, 6, 8, 10, 2, 3, 3, 2, 12, 14, 2, 25, 2, 12, 3, 2, 2, 2, 4, 14, 3, 2, 2, 2, 6, 20, 3, 2, 2, 2, 8, 24, 3, 2, 2, 2, 10, 28, 3, 2, 2, 2, 12, 13, 5, 4, 3, 2, 13, 3, 3, 2, 2, 2, 14, 15, 7, 8, 2, 2, 15, 16, 7, 9, 2, 2, 16, 17, 7, 3, 2, 2, 17, 18, 7, 4, 2, 2, 18, 19, 5, 6, 4, 2, 19, 5, 3, 2, 2, 2, 20, 21, 7, 5, 2, 2, 21, 22, 5, 8, 5, 2, 22, 23, 7, 6, 2, 2, 23, 7, 3, 2, 2, 2, 24, 25, 7, 10, 2, 2, 25, 26, 5, 10, 6, 2, 26, 27, 7, 7, 2, 2, 27, 9, 3, 2, 2, 2, 28, 29, 9, 2, 2, 2, 29, 11, 3, 2, 2, 2, 2]
